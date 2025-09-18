@@ -30,7 +30,7 @@ const Hero = () => {
             </h1>
             
             <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-              The All-in-One CRM built for Moving Companies in Nigeria. 
+              The All-in-One CRM built for Moving Companies. 
               Manage leads, send quotes, schedule jobs, track revenue – all from one simple dashboard.
             </p>
             
