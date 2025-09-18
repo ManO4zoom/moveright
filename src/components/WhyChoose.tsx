@@ -35,10 +35,10 @@ const WhyChoose = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold text-gray-900 mb-4">
-            Why Moving Companies in Nigeria Choose MoveRight CRM
+            Why Moving Companies Choose MoveRight CRM
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            We understand the unique challenges of running a moving business in Nigeria
+            We understand the unique challenges of running a moving business
           </p>
         </div>
 
@@ -68,11 +68,11 @@ const WhyChoose = () => {
         <div className="mt-20 bg-white rounded-2xl p-8 shadow-xl">
           <div className="grid md:grid-cols-4 gap-8 text-center">
             <div>
-              <div className="text-4xl font-bold text-blue-600 mb-2">500+</div>
+              <div className="text-4xl font-bold text-blue-600 mb-2">3+</div>
               <div className="text-gray-600">Moving Companies</div>
             </div>
             <div>
-              <div className="text-4xl font-bold text-green-600 mb-2">₦2.5B+</div>
+              <div className="text-4xl font-bold text-green-600 mb-2">₦8.4M+</div>
               <div className="text-gray-600">Revenue Processed</div>
             </div>
             <div>
