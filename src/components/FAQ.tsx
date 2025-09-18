@@ -12,7 +12,7 @@ const faqs = [
   },
   {
     question: 'Do you offer training and support?',
-    answer: 'Absolutely. We provide comprehensive onboarding, video tutorials, and 24/7 WhatsApp support. Our team understands the Nigerian moving industry and will help you get set up in under 24 hours.'
+    answer: 'Absolutely. We provide comprehensive onboarding, video tutorials, and 24/7 WhatsApp support. Our team understands the moving industry and will help you get set up in under 24 hours.'
   },
   {
     question: 'Is there a free trial?',
