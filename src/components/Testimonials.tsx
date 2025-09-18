@@ -37,7 +37,7 @@ const Testimonials = () => {
             What Our Clients Are Saying
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Join hundreds of moving companies across Nigeria who trust MoveRight CRM
+            Join hundreds of moving companies across the world who trust MoveRight CRM
           </p>
         </div>
 
