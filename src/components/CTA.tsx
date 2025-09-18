@@ -10,7 +10,7 @@ const CTA = () => {
             Ready to Grow Your Moving Business?
           </h2>
           <p className="text-xl text-blue-100 mb-8 leading-relaxed">
-            Start managing leads, jobs, and payments the smart way. Join hundreds of Nigerian moving companies already using MoveRight CRM.
+            Start managing leads, jobs, and payments the smart way. Join hundreds of moving companies already using MoveRight CRM.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-6 justify-center mb-12">
