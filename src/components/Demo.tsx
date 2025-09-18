@@ -29,7 +29,7 @@ const Demo = () => {
                   </div>
                   <h3 className="text-2xl font-bold mb-4">Watch Demo Video</h3>
                   <p className="text-white/90">
-                    See how Nigerian moving companies use MoveRight CRM to grow their business
+                    See how moving companies use MoveRight CRM to grow their business
                   </p>
                 </div>
               </div>
